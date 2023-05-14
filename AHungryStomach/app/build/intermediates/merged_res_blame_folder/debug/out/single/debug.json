@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_checkout_btn.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_checkout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_btn.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_sub_add_bg.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\sub_add_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_pay.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_shopping.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_search_off.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_search_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_check_out.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_check_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ahungrystomach.app-merged_res-40:/layout_activity_category.xml.flat",
+        "source": "com.example.ahungrystomach.app-main-42:/layout/activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_location_person.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_location_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_remove_24.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_remove_24.xml"
+    },
+    {
+        "merged": "com.example.ahungrystomach.app-merged_res-40:/layout_activity_check_out.xml.flat",
+        "source": "com.example.ahungrystomach.app-main-42:/layout/activity_check_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_support.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_cus_popular.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\cus_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\font_myfont.ttf.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\font\\myfont.ttf"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_edittext.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_meal.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_background_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\background_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_checkout.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_success.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\success.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_sub.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\sub.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_splash_image.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_addcart_search.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_addcart_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_area.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_bachground_tv.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\bachground_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_edt.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_edt.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_searched.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_searched.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_remove.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_locationer.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_locationer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_distric.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_distric.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_city.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_add.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_man.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\raw_shopping.json.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\raw\\shopping.json"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_clear_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_clear_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_logo_hs.png.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\logo_hs.png"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_add_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_add_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_ic_remove_cart.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\ic_remove_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_dialog_checkout.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\dialog_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_tv_meal.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_tv_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_addcart_white.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\addcart_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_background_btncheckout.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\background_btncheckout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_re_move_single.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\re_move_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_search.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\drawable_back_item_meal.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\drawable\\back_item_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-merged_res-40:\\layout_item_popular.xml.flat",
+        "source": "C:\\Users\\NHS24\\.gradle\\daemon\\7.5\\com.example.ahungrystomach.app-main-42:\\layout\\item_popular.xml"
+    }
+]

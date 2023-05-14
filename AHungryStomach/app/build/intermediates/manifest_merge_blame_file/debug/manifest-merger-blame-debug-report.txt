@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ahungrystomach"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="31"
+8-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:6:5-76
+12-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.SEND_SMS" />
+13-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.example.ahungrystomach.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.example.ahungrystomach.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:9:5-46:19
+22        android:allowBackup="true"
+22-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\NHS24\.gradle\caches\transforms-3\48da4d468f697fb0fb5d56e4c7c822b9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:12:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:13:9-43
+29        android:label="@string/app_name"
+29-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:14:9-41
+30        android:supportsRtl="true"
+30-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AHungryStomach"
+32-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:16:9-52
+33        android:usesCleartextTraffic="true" >
+33-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:17:9-44
+34        <activity
+34-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:19:9-21:40
+35            android:name="com.example.ahungrystomach.activities.SearchActivity"
+35-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:20:13-54
+36            android:exported="false" />
+36-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:21:13-37
+37        <activity
+37-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:22:9-24:40
+38            android:name="com.example.ahungrystomach.activities.CheckOutActivity"
+38-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:23:13-56
+39            android:exported="false" />
+39-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:24:13-37
+40        <activity
+40-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:25:9-27:40
+41            android:name="com.example.ahungrystomach.activities.CartActivity"
+41-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:26:13-52
+42            android:exported="false" />
+42-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:27:13-37
+43        <activity
+43-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:28:9-30:40
+44            android:name="com.example.ahungrystomach.activities.DetailActivity"
+44-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:29:13-54
+45            android:exported="false" />
+45-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:30:13-37
+46        <activity
+46-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:31:9-33:40
+47            android:name="com.example.ahungrystomach.activities.CategoryActivity"
+47-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:32:13-56
+48            android:exported="false" />
+48-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:33:13-37
+49        <activity
+49-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:34:9-36:40
+50            android:name="com.example.ahungrystomach.activities.HomeActivity"
+50-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:35:13-52
+51            android:exported="false" />
+51-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:36:13-37
+52        <activity
+52-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:37:9-45:20
+53            android:name="com.example.ahungrystomach.activities.SplashActivity"
+53-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:38:13-54
+54            android:exported="true" >
+54-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:39:13-36
+55            <intent-filter>
+55-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:40:13-44:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:41:17-69
+56-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:41:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:43:17-77
+58-->C:\Users\NHS24\AndroidStudioProjects\AHungryStomach\app\src\main\AndroidManifest.xml:43:27-74
+59            </intent-filter>
+60        </activity>
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+64            android:authorities="com.example.ahungrystomach.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\NHS24\.gradle\caches\transforms-3\b534eca45ae0368be30899d5007a440e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NHS24\.gradle\caches\transforms-3\b0761d22b5c86c7f873b7a426ffce717\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NHS24\.gradle\caches\transforms-3\b0761d22b5c86c7f873b7a426ffce717\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\NHS24\.gradle\caches\transforms-3\b0761d22b5c86c7f873b7a426ffce717\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>
